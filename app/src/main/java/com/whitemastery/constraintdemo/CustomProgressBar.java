@@ -50,6 +50,8 @@ public class CustomProgressBar {
         flip.setRepeatMode(ValueAnimator.REVERSE);
         flip.setInterpolator(new LinearInterpolator());
         flip.start();
+
+        /* Testing Purpose*/
     }
 
     public void dismiss() {
